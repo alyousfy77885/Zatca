@@ -5,7 +5,7 @@
     "require": {
         "endroid/qr-code": "5.x-dev"
     },
-    "license": "MT",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Binsoltan\\Zatca\\": "src/"
