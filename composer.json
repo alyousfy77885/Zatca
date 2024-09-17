@@ -2,6 +2,7 @@
     "name": "binsoltan/zatca",
     "description": "zatca",
     "type": "library",
+    "version": "master",
     "require": {
         "endroid/qr-code": "5.x-dev"
     },
