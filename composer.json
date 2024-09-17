@@ -1,0 +1,14 @@
+{
+    "name": "root/zatca",
+    "type": "library",
+    "require": {
+        "endroid/qr-code": "5.x-dev"
+    },
+    "license": "MT",
+    "autoload": {
+        "psr-4": {
+            "Root\\Zatca\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
