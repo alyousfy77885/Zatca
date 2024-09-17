@@ -1,5 +1,6 @@
 {
-    "name": "root/zatca",
+    "name": "binsoltan/zatca",
+    "description": "zatca",
     "type": "library",
     "require": {
         "endroid/qr-code": "5.x-dev"
@@ -7,8 +8,14 @@
     "license": "MT",
     "autoload": {
         "psr-4": {
-            "Root\\Zatca\\": "src/"
+            "Binsoltan\\Zatca\\": "src/"
         }
     },
+    "authors": [
+        {
+            "name": "alyousfy77885",
+            "email": "alyousfy77885@gmail.com"
+        }
+    ],
     "minimum-stability": "dev"
 }
