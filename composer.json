@@ -17,6 +17,6 @@
             "email": "alyousfy77885@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable" : true
 }
